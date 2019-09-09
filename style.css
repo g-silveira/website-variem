@@ -1,0 +1,25 @@
+ #mainNavbar{
+	 border-bottom-style: solid;
+	 border-width: 1px;
+	 border-color: lightgray;
+ }
+
+.footer {
+	/* background-color: #d9d9d9; */
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+#unicampLogo {
+	width: 25%;
+	height: auto;
+}
+
+#copyright {
+	font-size: 9pt;
+}
+
+#endereco {
+	font-size: 10pt;
+}
